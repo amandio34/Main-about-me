@@ -6,4 +6,4 @@
 
 🌱 I’m currently learning more about progamming with JavaScript and TypeScript!
 
-📫 How to reach me: Discord @amandio_34 , or Email: amanda.andersson034@gmail.com
+📫 How to reach me: Discord @amandio_34 , or Email amanda.andersson034@gmail.com
